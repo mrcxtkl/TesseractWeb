@@ -6,6 +6,9 @@
   "repository": "https://github.com/mrcxtkl/TesseractWeb",
   "author": "mrcxtkl",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/App.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",

@@ -5,7 +5,7 @@ A web application to optical character recognition using Tesseract.js (OCR) and 
 First, install [NodeJS](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads) if you havent already.
 Now, you can clone this repository to your machine using:
 ```
-$ git clone https://github.com/mrcxtkl/TesseractWeb.git
+$ git clone rfxct
 ```
 
 After clone, access the project folder and execute the following command to install project dependecies:
